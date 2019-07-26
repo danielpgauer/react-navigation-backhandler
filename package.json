@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-backhandler",
-  "version": "1.3.2",
+  "version": "1.4.0",
   "description": "Easily handle Android back button with react-navigation",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vonovak/react-navigation-backhandler.git"
+    "url": "git+https://github.com/danielpgauer/react-navigation-backhandler.git"
   },
   "keywords": [
     "react-navigation",
@@ -24,5 +24,5 @@
   "bugs": {
     "url": "https://github.com/vonovak/react-navigation-backhandler/issues"
   },
-  "homepage": "https://github.com/vonovak/react-navigation-backhandler#readme"
+  "homepage": "https://github.com/danielpgauer/react-navigation-backhandler#readme"
 }
